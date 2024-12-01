@@ -10,7 +10,7 @@ namespace Ej_24.real
     {
         static void Main(string[] args)
         {
-
+            Console.ReadLine("Hello world");
 
         }
     }
